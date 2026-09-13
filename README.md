@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hi there, I'm Daniele 👋
 
-<!--
-**danielesechiii/danielesechiii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+🎓 Computer Engineering Student | Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about programming, artificial intelligence, and building things that work.
+
+♟️ When I'm not coding, you'll find me playing chess, reading, or diving into philosophy, psychology, and finance.
+
+🚀 Always learning, always building.
+
+
+---
+
+*Self-hosted by principle. Open-source by nature.*
