@@ -15,7 +15,7 @@
 
 *Self-hosted by principle. Open-source by nature.*
 
-### CERTIFICATIONS
+### Certifications
 - [Responsive web design](https://www.freecodecamp.org/italian/certification/daniisechii/responsive-web-design-v9)
 - [Javascript](https://www.freecodecamp.org/italian/certification/daniisechii/javascript-v9)
 - [Google AI Essentials](https://coursera.org/share/a1324655ee2fe0532324f0f2b6bd956a)
